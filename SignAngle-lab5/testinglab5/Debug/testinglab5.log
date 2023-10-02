@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testinglab5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  testinglab5.cpp
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(16,48): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(16,36): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(16,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(16,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(30,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(34,45): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\source\repos\signlab5\testinglab5\testinglab5.cpp(35,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  testinglab5.vcxproj -> C:\Users\taha_\source\repos\signlab5\Debug\Signfromchap3.exe

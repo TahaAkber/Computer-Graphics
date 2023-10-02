@@ -1,0 +1,6 @@
+﻿  newcanvas.cpp
+C:\Users\taha_\source\repos\newcanvas\newcanvas\newcanvas.cpp(15,11): error C2665: 'Canvas::Canvas': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\gl\Canvas.h.h(112,9): message : could be 'Canvas::Canvas(int,int,char *)'
+C:\Users\taha_\source\repos\newcanvas\newcanvas\newcanvas.cpp(15,11): message : 'Canvas::Canvas(int,int,char *)': cannot convert argument 3 from 'const char [12]' to 'char *'
+C:\Users\taha_\source\repos\newcanvas\newcanvas\newcanvas.cpp(15,22): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\taha_\source\repos\newcanvas\newcanvas\newcanvas.cpp(15,11): message : while trying to match the argument list '(int, int, const char [12])'
