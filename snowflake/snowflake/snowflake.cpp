@@ -1,9 +1,55 @@
 #include <iostream>
 #include <GL/glut.h>
 
+//void snowflake() {
+//    glPushMatrix();
+//   
+//    glBegin(GL_LINE_STRIP);
+//    glVertex2f(0, 5);
+//    glVertex2f(20, 5);
+//    glVertex2f(30, 25);
+//    glVertex2f(35, 18);
+//    glVertex2f(25, 5);
+//    glVertex2f(30, 5);
+//    glEnd();
+//    glPopMatrix();
+//}
+//
+//void drawflake() {
+//    glPushMatrix();
+//    glTranslatef(0, 5, 0);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//    glScalef(1, -1, 1);
+//    glTranslatef(0, -5, 0);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//
+//    glTranslatef(-10, 0, 0);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//
+//    glTranslatef(0, 5, 0);
+//    glScalef(1, -1, 1);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//
+//    glTranslatef(-10, 5, 0);
+//    glScalef(1, -1, 1);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//
+//    glTranslatef(0, 5, 0);
+//    glScalef(1, -1, 1);
+//    snowflake();
+//    glTranslatef(0, 0, 0);
+//
+//    glPopMatrix();
+//}
+
 void snowflake() {
     glPushMatrix();
-   
+
     glBegin(GL_LINE_STRIP);
     glVertex2f(0, 5);
     glVertex2f(20, 5);
@@ -11,92 +57,31 @@ void snowflake() {
     glVertex2f(35, 18);
     glVertex2f(25, 5);
     glVertex2f(30, 5);
+    glVertex2f(35, 15);
+    glVertex2f(40, 12);
+    glVertex2f(35, 5);
+    glVertex2f(45, 5);
+    glVertex2f(45, 0);
     glEnd();
     glPopMatrix();
 }
 
 void drawflake() {
-    glPushMatrix();
-    glTranslatef(0, 5, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
-    glScalef(1, -1, 1);
-    glTranslatef(0, -5, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
+    for (int count = 0; count < 6; count++) {
 
-    glTranslatef(-10, 0, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(-10, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glPopMatrix();
+        snowflake();
+        glScalef(1, -1, 0);
+        snowflake();
+        glScalef(1, -1, 0);
+        glRotatef(60, 0, 0, 1);
+    }
 }
+
 void display() {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
     glLoadIdentity();
    
-    glTranslatef(0, 5, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
-    glScalef(1, -1, 1);
-    glTranslatef(0, -5, 0);
-    glRotatef(0, 1, 0, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(-10, 0, 0);
-    glRotatef(0, 1, 0, 0);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(-10, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, 5, 0);
-    glScalef(1, -1, 1);
-    snowflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, -5, 0);
-    glRotatef(180, 0, 1, 0);
     drawflake();
-    glTranslatef(0, 0, 0);
-
-    glTranslatef(0, 30, 0);
-    glRotatef(90, 0, 0, 1);
-    glScalef(1, 1, -1);
-    drawflake();
-    glTranslatef(0, 0, 0);
-
-
-    glTranslatef(-40, 15, 0);
-    glRotatef(180, 0, 0, 1);
-    glScalef(1, 1, -1);
-    drawflake();
-    glTranslatef(0, 0, 0);
-
 
     glFlush();
 }
