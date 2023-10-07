@@ -1,0 +1,4 @@
+﻿  Gearwheel.cpp
+C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Gearwheel\Gearwheel.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Gearwheel\Gearwheel.cpp(78,27): warning C4018: '<': signed/unsigned mismatch
+  Gearwheel.vcxproj -> C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Debug\Gearwheel.exe
