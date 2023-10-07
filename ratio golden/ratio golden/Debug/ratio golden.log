@@ -1,0 +1,27 @@
+﻿  ratio golden.cpp
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(80,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(80,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(81,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(81,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(82,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(82,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(83,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(83,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(91,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(91,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(92,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(92,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(93,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(93,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(94,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(94,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(139,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(139,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(140,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(140,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(141,72): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(141,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(142,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(142,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\ratio golden\ratio golden.cpp(146,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ratio golden.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\ratio golden\Debug\ratio golden.exe
