@@ -1,0 +1,9 @@
+﻿  rotatedino360.cpp
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(69,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(69,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(71,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(71,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(72,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(73,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\rotatedino360\rotatedino360.cpp(73,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  rotatedino360.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\rotatedino360\Debug\rotatedino360.exe
