@@ -1,0 +1,6 @@
+﻿  testinghexagon.cpp
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\testinghexagon\testinghexagon\testinghexagon.cpp(37,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\testinghexagon\testinghexagon\testinghexagon.cpp(39,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\testinghexagon\testinghexagon\testinghexagon.cpp(39,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\testinghexagon\testinghexagon\testinghexagon.cpp(42,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  testinghexagon.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\testinghexagon\Debug\testinghexagon.exe
