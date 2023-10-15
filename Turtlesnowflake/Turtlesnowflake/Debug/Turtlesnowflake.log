@@ -1,2 +1,10 @@
 ﻿  Turtlesnowflake.cpp
-  Turtlesnowflake.vcxproj -> C:\Users\Koln1ce\Desktop\Computer Graphics\Turtlesnowflake\Debug\Turtlesnowflake.exe
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(43,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(61,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(67,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(69,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(73,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(75,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(77,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Turtlesnowflake\Turtlesnowflake.cpp(81,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Turtlesnowflake.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Turtlesnowflake\Debug\Turtlesnowflake.exe

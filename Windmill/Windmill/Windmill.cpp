@@ -372,7 +372,7 @@ int main(int argc, char** argv)
     glutDisplayFunc(display);
     glutReshapeFunc(reshape);
     glutKeyboardFunc(keyboard);
-    glutTimerFunc(30, Timer, 1);
+    glutTimerFunc(60, Timer, 1);
     glutMainLoop();
 
 }

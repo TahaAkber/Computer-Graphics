@@ -20,7 +20,7 @@ void starmotif() {
 float angle = 0;
 void drawstar() {
 	for (int i = 0; i < 4; i++) {
-		glRotatef(angle + 90, 0, 0, 1);
+		glRotatef(angle + 70, 0, 0, 1);
 		starmotif();
 	}
 }

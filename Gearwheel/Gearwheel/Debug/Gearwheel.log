@@ -1,4 +1,15 @@
 ﻿  Gearwheel.cpp
-C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Gearwheel\Gearwheel.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Gearwheel\Gearwheel.cpp(78,27): warning C4018: '<': signed/unsigned mismatch
-  Gearwheel.vcxproj -> C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Gearwheel\Debug\Gearwheel.exe
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(13,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(13,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(14,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(14,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(15,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(15,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(23,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(23,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(24,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(24,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(60,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Gearwheel\Gearwheel.cpp(78,27): warning C4018: '<': signed/unsigned mismatch
+  Gearwheel.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\Gearwheel\Debug\Gearwheel.exe
