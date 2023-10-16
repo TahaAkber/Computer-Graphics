@@ -1,0 +1,10 @@
+﻿  carmodel.cpp
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(43,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(44,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(68,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(74,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(74,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(87,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(88,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(96,16): warning C4305: '+=': truncation from 'double' to 'float'
+  carmodel.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\Debug\carmodel.exe
