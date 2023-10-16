@@ -6,5 +6,4 @@ C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\car
 C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(101,40): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(114,22): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(115,21): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\carmodel\carmodel.cpp(124,20): warning C4305: '+=': truncation from 'double' to 'float'
   carmodel.vcxproj -> C:\Users\taha_\OneDrive\Documents\GitHub\Computer-Graphics\carmodel\Debug\carmodel.exe

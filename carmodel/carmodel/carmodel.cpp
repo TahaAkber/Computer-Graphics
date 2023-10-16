@@ -120,7 +120,7 @@ void display() {
 }
 
 void update(int value) {
-    if (!pause) {
+    if (!pause && carX <= 10) {
         carX += 0.1; // Move the car to the right
     }// Move the car to the right
     glutPostRedisplay();
