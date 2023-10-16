@@ -1,11 +1,15 @@
 #include <GL/glut.h>
 #include <cmath>
 #include <math.h>
+#include <cstdlib>
 
+// Add global variables for the menu
+int menu_id;
+int value = 0;
 const double PI = 3.142;
 const int numVertices = 40;
-float carX = -5.0; // Initial car position
-
+float carX = -10.0; // Initial car position
+bool pause = false;  
 void reshape(int width, int height) {
     glViewport(0, 0, width, height);
     glMatrixMode(GL_PROJECTION);
@@ -35,7 +39,30 @@ void drawArc(float centerX, float centerY, float radius, float startAngle, float
     }
     glEnd();
 }
+void menu(int num) {
+    if (num == 0) {
+        // Handle "Start" menu item
+        value = 1;
+        carX = -10.0;
+        pause = false;
 
+    }
+    else if (num == 1) {
+        // Handle "Restart" menu item
+        carX = 5.0; // Reset the car position
+        value = 0;
+        pause = false;
+    }
+    else if (num == 2) {
+        // Handle "Pause" menu item
+        pause = !pause;
+    }
+    else if (num == 3) {
+        // Handle "Exit" menu item
+        exit(0);
+    }
+    glutPostRedisplay();
+}
 void drawCircle(float centerX, float centerY, float radius, int numVertices, bool semi) {
     glBegin(GL_POLYGON);
     for (int i = 0; i < numVertices; ++i) {
@@ -93,7 +120,9 @@ void display() {
 }
 
 void update(int value) {
-    carX += 0.1; // Move the car to the right
+    if (!pause) {
+        carX += 0.1; // Move the car to the right
+    }// Move the car to the right
     glutPostRedisplay();
     glutTimerFunc(100, update, 0);
 }
@@ -108,6 +137,19 @@ int main(int argc, char** argv) {
     glutReshapeFunc(reshape);
     glutIdleFunc(display);
     glutTimerFunc(100, update, 0); // Start the animation
+
+    // Create the context menu
+    menu_id = glutCreateMenu(menu);
+    glutAddMenuEntry("Start", 0);
+    glutAddMenuEntry("Restart", 1);
+    glutAddMenuEntry("Pause", 2); // Add "Pause" menu item
+    glutAddMenuEntry("Exit", 3);
+
+    // Attach the menu to the right mouse button
+    glutAttachMenu(GLUT_RIGHT_BUTTON);
+
     glutMainLoop();
     return 0;
 }
+
+
