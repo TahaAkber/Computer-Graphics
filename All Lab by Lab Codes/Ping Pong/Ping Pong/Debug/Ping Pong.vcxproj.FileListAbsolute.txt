@@ -1,0 +1,4 @@
+E:\project-CG\Ping Pong\Debug\Ping Pong.exe
+C:\Users\Koln1ce\Desktop\Ping Pong\Ping Pong\Debug\Ping Pong.exe
+C:\Users\Koln1ce\Desktop\Computer Graphics\Ping Pong\Ping Pong\Debug\Ping Pong.exe
+C:\Users\Koln1ce\Desktop\Computer Graphics\Lab10\Ping Pong\Ping Pong\Debug\Ping Pong.exe

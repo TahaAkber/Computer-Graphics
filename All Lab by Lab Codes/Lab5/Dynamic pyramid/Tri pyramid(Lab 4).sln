@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tri pyramid(Lab 4)", "Tri pyramid(Lab 4)\Tri pyramid(Lab 4).vcxproj", "{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Debug|x64.ActiveCfg = Debug|x64
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Debug|x64.Build.0 = Debug|x64
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Debug|x86.ActiveCfg = Debug|Win32
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Debug|x86.Build.0 = Debug|Win32
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Release|x64.ActiveCfg = Release|x64
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Release|x64.Build.0 = Release|x64
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Release|x86.ActiveCfg = Release|Win32
+		{F14E1B17-1E6A-4C87-AE13-FA05EC5DE946}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {522E2D62-95C9-4009-B73F-5957862220DE}
+	EndGlobalSection
+EndGlobal
